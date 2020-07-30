@@ -1,1 +1,1 @@
-# run
+# bd connection with flask
